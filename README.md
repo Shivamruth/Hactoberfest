@@ -1,5 +1,4 @@
 # Hactoberfest
 <kevvu keka koushik>
 
-this is gdgc
-
+hi this my second gdgc hack
